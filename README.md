@@ -1,8 +1,8 @@
-## MiniDexed-Shield
+# MiniDexed-Shield
 MiniDexed Shield is compact yet full-featured and highy configurable hardware solution for runnning Minidexed: https://github.com/probonopd/MiniDexed
 
 Minimal parts list and very friendly for DIY novices.  
-# Features
+### Features
 1602 LCD
 
 PCM5102A DAC module
