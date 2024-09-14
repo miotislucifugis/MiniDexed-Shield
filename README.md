@@ -1,7 +1,7 @@
 # MiniDexed-Shield
 MiniDexed Shield is compact yet full-featured and highy configurable hardware solution for runnning Minidexed: https://github.com/probonopd/MiniDexed
 
-Minimal parts list and very friendly for DIY novices. Almost entirely through hole components.  (Choc and MX keyswitch expander boards have some SMD parts, but still beginner friendly.) 
+Minimal parts list and very friendly for DIY novices. Almost entirely through hole components.  (Kalih Choc and Cherry MX keyswitch expander boards have some SMD parts, but still beginner friendly.) 
 ### Features
 1602 LCD
 
