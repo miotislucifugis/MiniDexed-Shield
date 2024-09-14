@@ -2,10 +2,15 @@
 MiniDexed Shield is compact yet full-featured and highy configurable hardware solution for runnning Minidexed.   MiniDexed https://github.com/probonopd/MiniDexed
 
 1602 LCD
+
 PCM5102A DAC module
+
 encoder w/ switch
-2x 1/4" outs for L and R channels
-3.5mm stereo line out jack that can drive headphones
+
+2x 1/4" outs for L and R channels.
+
+3.5mm stereo line out jack that can drive headphones.
+
 TRS Serial Midi In and Out via 2x 3.5 jacks
 
 Master Volume control with the "control Expander" module
