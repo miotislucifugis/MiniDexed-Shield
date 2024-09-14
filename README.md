@@ -1,5 +1,6 @@
 # MiniDexed-Shield
 MiniDexed Shield is compact yet full-featured and highy configurable hardware solution for runnning Minidexed: https://github.com/probonopd/MiniDexed
+Minimal parts list and very friendly for DIY novices.  
 
 1602 LCD
 
