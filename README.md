@@ -1,3 +1,5 @@
+https://github.com/miotislucifugis/MiniDexed-Shield/blob/main/IMG_6118.jpg
+
 # MiniDexed-Shield
 MiniDexed Shield is compact yet full-featured and highy configurable hardware solution for runnning Minidexed: https://github.com/probonopd/MiniDexed
 
